@@ -84,6 +84,9 @@ Full Stack Developer
 ### Manage Antrian
 ![Pendaftaran](docs/view-antrian.png)
 
+### Menu Setting Bot Knowledge
+![Pendaftaran](docs/bot-knowledge.png)
+
 ### Menu Setting Bot WA
 ![Pendaftaran](docs/setting-bot.png)
 
