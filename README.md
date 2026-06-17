@@ -69,17 +69,26 @@ Full Stack Developer
 
 ## 📷 Screenshot
 
-### Dashboard
-![Dashboard](docs/dashboard.png)
+### Page Pendaftaran
+![Pendaftaran](docs/page-pendaftaran.png)
 
 ### Form Pendaftaran
-![Pendaftaran](docs/pendaftaran.png)
+![Pendaftaran](docs/form-antrian.png)
 
-### Nomor Antrian
-![Antrian](docs/antrian.png)
+### Login Page Admin
+![Pendaftaran](docs/login-page.png)
 
-### Monitoring Pendaftaran
-![Monitoring](docs/monitoring.png)
+### Dashboard Admin
+![Dashboard](docs/dashboard.png)
+
+### Manage Antrian
+![Pendaftaran](docs/view-antrian.png)
+
+### Menu Setting Bot WA
+![Pendaftaran](docs/setting-bot.png)
+
+### Menu Setting Countdown 
+![Pendaftaran](docs/countdown.png)
 
 ## 📚 Yang Saya Pelajari
 
